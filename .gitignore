@@ -1,0 +1,31 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore build output
+/dist
+/build
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore package-lock files
+package-lock.json
+yarn.lock
+
+# Ignore any files with .private extension
+*.private
