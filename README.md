@@ -1,4 +1,7 @@
 # GPT-4o-mini Engineer Chat
+![Screenshot 2024-09-11 at 8 44 16 PM](https://github.com/user-attachments/assets/9adfeb13-0fda-4d0f-b32d-58bb7c307209)
+
+
 
 This project is an AI-powered chat application using OpenAI's GPT-4o-mini model. It provides a multi-agent system with image support, code execution capabilities, and an autonomous mode for extended interactions.
 
