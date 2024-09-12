@@ -1,4 +1,4 @@
-# GPT-4o-mini Engineer Chat
+# GPT-4o-2024-08-06-2024 Engineer Chat
 ![Screenshot 2024-09-11 at 8 44 16 PM](https://github.com/user-attachments/assets/9adfeb13-0fda-4d0f-b32d-58bb7c307209)
 
 
