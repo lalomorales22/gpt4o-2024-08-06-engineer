@@ -3,11 +3,11 @@
 
 
 
-This project is an AI-powered chat application using OpenAI's GPT-4o-mini model. It provides a multi-agent system with image support, code execution capabilities, and an autonomous mode for extended interactions.
+This project is an AI-powered chat application using OpenAI's newest GPT4o-2024-08-06. It provides a multi-agent system with image support, code execution capabilities, and an autonomous mode for extended interactions.
 
 ## Features
 
-- Chat with GPT-4o-mini model
+- Chat with newest GPT4o-2024-08-06 model
 - Image analysis support
 - Code execution in an isolated environment
 - Autonomous mode for continuous task execution
@@ -24,8 +24,8 @@ This project is an AI-powered chat application using OpenAI's GPT-4o-mini model.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/gpt-4o-mini-engineer-chat.git
-   cd gpt-4o-mini-engineer-chat
+   git clone https://github.com/lalomorales22/gpt4o-2024-08-06-engineer.git
+   cd gpt4o-2024-08-06-engineer
    ```
 
 2. Create a virtual environment (optional but recommended):
